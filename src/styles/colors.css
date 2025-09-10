@@ -1,0 +1,72 @@
+/* VEGO-BIKE Global Color Variables */
+:root {
+  /* Primary Colors */
+  --primary-dark-blue: #000099;
+  --primary-light-blue: #9999ff;
+  
+  /* Text Colors */
+  --text-primary: #ffffff;
+  --text-secondary: #e6e6ff;
+  --text-dark: #000099;
+  
+  /* Background Colors */
+  --background-primary: #000099;
+  --background-secondary: #1a1a66;
+  --background-light: rgba(153, 153, 255, 0.1);
+  
+  /* Accent & Interactive Colors */
+  --accent-color: #9999ff;
+  --hover-color: #7777ff;
+  --focus-color: rgba(153, 153, 255, 0.3);
+  
+  /* Border Colors */
+  --border-light: rgba(153, 153, 255, 0.3);
+  --border-solid: #9999ff;
+  
+  /* Shadow Colors */
+  --shadow-light: rgba(0, 0, 153, 0.2);
+  --shadow-medium: rgba(153, 153, 255, 0.3);
+
+  /* Success/Green Colors */
+  --success-primary: #198754;
+  --success-secondary: #20c997;
+  --success-light: #d1e7dd;
+  --success-dark: #146c43;
+  --success-hover: #157347;
+  --success-bg-light: rgba(25, 135, 84, 0.1);
+
+  /* Danger/Red Colors */
+  --danger-primary: #dc3545;
+  --danger-secondary: #e74c3c;
+  --danger-light: #f8d7da;
+  --danger-dark: #721c24;
+  --danger-hover: #bb2d3b;
+  --danger-bg-light: rgba(220, 53, 69, 0.1);
+
+  /* Warning/Orange Colors */
+  --warning-primary: #ffc107;
+  --warning-secondary: #f39c12;
+  --warning-light: #fff3cd;
+  --warning-dark: #b08800;
+  --warning-hover: #ffca2c;
+  --warning-bg-light: rgba(255, 193, 7, 0.1);
+
+  /* Info/Cyan Colors */
+  --info-primary: #0dcaf0;
+  --info-secondary: #17a2b8;
+  --info-light: #d1ecf1;
+  --info-dark: #055160;
+  --info-hover: #3dd5f3;
+  --info-bg-light: rgba(13, 202, 240, 0.1);
+
+  /* Gray Shades */
+  --gray-100: #f8f9fa;
+  --gray-200: #e9ecef;
+  --gray-300: #dee2e6;
+  --gray-400: #ced4da;
+  --gray-500: #adb5bd;
+  --gray-600: #6c757d;
+  --gray-700: #495057;
+  --gray-800: #343a40;
+  --gray-900: #212529;
+}
